@@ -84,7 +84,6 @@ I combine technical security knowledge with solution consulting, product evaluat
 
 ## 🚀 Projects & Research
 
-> Replace these project descriptions with links to your actual repositories when available.
 
 | Project | Description |
 |---|---|
@@ -97,7 +96,7 @@ I combine technical security knowledge with solution consulting, product evaluat
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=SathishSudhara&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SathishSudhara&layout=compact&theme=tokyonight&hide_border=true" />
+ 
 </p>
 
 <p align="center">
@@ -120,10 +119,10 @@ I'm interested in collaborating on:
   <a href="https://github.com/SathishSudhara">
     <img src="https://img.shields.io/badge/GitHub-SathishSudhara-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/sathish-sudhara)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL_ADDRESS">
+  <a href="mailto:sathishsudara@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>

@@ -3,7 +3,7 @@
 ### `SECURE • DETECT • INVESTIGATE • RESPOND`
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&text=ENGINEERING%20CYBER%20DEFENSE&fontSize=27&fontColor=00FFB2&color=0D1117&animation=fadeIn&fontAlignY=40&desc=Threat%20Hunting%20%7C%20Endpoint%20Security%20%7C%20Incident%20Response&descAlignY=65&descSize=13" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&text=ENGINEERING%20CYBER%20DEFENSE&fontSize=27&fontColor=00FFB2&color=0D1117&animation=fadeIn&fontAlignY=40&desc=Threat%20Hunting%20%7C%20Endpoint%20Security%20%7C%20Incident%20Response&descAlignY=65&descSize=18" width="100%" />
 </p>
 
 <p align="center">
